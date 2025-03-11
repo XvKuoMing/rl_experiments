@@ -79,21 +79,3 @@ This implementation can be extended in several ways:
 3. Competitor response modeling
 4. Long-term customer loyalty effects
 5. Discount and promotion optimization
-
-## License
-
-MIT License
-
-## Citation
-
-If you use this code in your research or project, please cite:
-
-```
-@misc{DynamicPricingPPO,
-  author = {Салямов, Камиль},
-  title = {Dynamic Pricing Optimization with PPO},
-  year = {2025},
-  publisher = {GitHub},
-  url = {https://github.com/yourusername/price-optimization-rl}
-}
-```
